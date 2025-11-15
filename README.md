@@ -36,8 +36,8 @@ spotify-hit-prediction-ml/
 ├── requirements.txt
 ├── README.md
 │
-├── images/
-│ ├── bpm_distribution.png
+├── images_spotify_ml/
+│ ├── distribution_graphs.png
 │ ├── feature_importance.png
 │ ├── roc_curve.png
 │ ├── confusion_matrix.png
