@@ -144,19 +144,17 @@ TF–IDF reveals common emotional and thematic words in hit songs.
 
 ## 📓 7. Notebook Guide
 
-### **`01_data_preparation.ipynb`**  
-- Load all datasets  
-- Clean & merge Spotify + Billboard + API sources  
-- Feature engineering  
-- Exploratory Data Analysis (EDA)  
-
-### **`02_lyrics_feature_engineering.ipynb`**  
+### **`01_lyrics_feature_engineering.ipynb`**  
 - Clean lyrics  
 - TF–IDF vectorization  
 - Merge audio + lyrics  
 - Build lyric-based prediction features  
 
-### **`03_model_training_and_evaluation.ipynb`**  
+### **`02_model_training_and_evaluation.ipynb`**  
+- Load all datasets  
+- Clean & merge Spotify + Billboard + API sources  
+- Feature engineering  
+- Exploratory Data Analysis (EDA)  
 - Train ML models (LogReg, RF, XGBoost, LightGBM, CatBoost)  
 - Hyperparameter tuning  
 - Generate ROC curves, confusion matrices, and accuracy metrics  
