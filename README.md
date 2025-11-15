@@ -166,8 +166,8 @@ TF–IDF reveals common emotional and thematic words in hit songs.
 (Add these after uploading your images to the `images/` folder)
 
 ```markdown
-![BPM Distribution](images/bpm_distribution.png)
-![Feature Importance](images/feature_importance.png)
-![ROC Curve](images/roc_curve.png)
-![Confusion Matrix](images/confusion_matrix.png)
-![Lyrics Wordcloud](images/lyrics_wordcloud.png)
+![Distribution Graphs](images_spotify_ml/distribution_graphs.png)
+![Feature Importance](images_spotify_ml/feature_importance.png)
+![ROC Curve](images_spotify_ml/roc_curve.png)
+![Confusion Matrix](images_spotify_ml/confusion_matrix.png)
+![Lyrics Wordcloud](images_spotify_ml/lyrics_wordcloud.png)
