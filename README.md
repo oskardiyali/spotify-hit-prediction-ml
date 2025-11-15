@@ -24,7 +24,7 @@ This project blends **music**, **data science**, and **machine learning**, turni
 
 ---
 
-## 📁 2. Repository Structure
+## 2. Repository Structure
 ```
 spotify-hit-prediction-ml/
 │
@@ -51,7 +51,7 @@ spotify-hit-prediction-ml/
 
 ---
 
-## 🎼 3. Data Sources
+## 3. Data Sources
 
 This project uses the following public datasets:
 
@@ -67,9 +67,9 @@ This project uses the following public datasets:
 
 ---
 
-## 🛠 4. Feature Engineering
+## 4. Feature Engineering
 
-### 🔊 Audio Features  
+### Audio Features  
 - Danceability  
 - Energy  
 - Acousticness  
@@ -80,7 +80,7 @@ This project uses the following public datasets:
 - Valence  
 - Tempo (BPM)
 
-### 🧩 Metadata Features  
+### Metadata Features  
 - Artist popularity  
 - Artist follower count  
 - Album type  
@@ -88,13 +88,13 @@ This project uses the following public datasets:
 - Explicit flag  
 - Genre & label groups  
 
-### ✍️ Lyrics (NLP)  
+### Lyrics (NLP)  
 - Text normalization  
 - TF–IDF vectorization  
 - Word frequency analysis  
 - Wordclouds  
 
-### 🧪 Additional Engineering  
+### Additional Engineering  
 - One-hot encoding  
 - Log-transformations  
 - Handling imbalance  
@@ -102,7 +102,7 @@ This project uses the following public datasets:
 
 ---
 
-## 🤖 5. Modeling Approach
+## 5. Modeling Approach
 
 Models tested:
 
@@ -130,21 +130,21 @@ Models tested:
 
 ## 🔍 6. Key Findings
 
-### 🎧 1. Tempo matters  
+### 1. Tempo matters  
 A strong hit cluster appears around **110–130 BPM**, especially near 120 BPM.
 
-### 💃 2. Danceability & loudness predict hits  
+### 2. Danceability & loudness predict hits  
 High-energy, louder songs are more likely to chart.
 
-### 🌐 3. Metadata is extremely predictive  
+### 3. Metadata is extremely predictive  
 Artist popularity and follower count significantly improve model performance.
 
-### 📝 4. Lyrics add interpretability  
+### 4. Lyrics add interpretability  
 TF–IDF reveals common emotional and thematic words in hit songs.
 
 ---
 
-## 📓 7. Notebook Guide
+## 7. Notebook Guide
 
 ### **`01_lyrics_feature_engineering.ipynb`**  
 - Clean lyrics  
@@ -163,7 +163,7 @@ TF–IDF reveals common emotional and thematic words in hit songs.
 
 ---
 
-## 📈 8. Visualizations
+## 8. Visualizations
 
 (Add these after uploading your images to the `images/` folder)
 
