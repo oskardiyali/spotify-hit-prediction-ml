@@ -28,9 +28,8 @@ This project blends **music**, **data science**, and **machine learning**, turni
 ```
 spotify-hit-prediction-ml/
 │
-├── 01_data_preparation.ipynb
-├── 02_lyrics_feature_engineering.ipynb
-├── 03_model_training_and_evaluation.ipynb
+├── 01_lyrics_feature_engineering.ipynb
+├── 02_model_training_and_evaluation.ipynb
 │
 ├── project_presentation_slides.pdf
 ├── requirements.txt
