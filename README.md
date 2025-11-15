@@ -163,8 +163,6 @@ TF–IDF reveals common emotional and thematic words in hit songs.
 
 ## 8. Visualizations
 
-(Add these after uploading your images to the `images/` folder)
-
 ```markdown
 ![Distribution Graphs](images_spotify_ml/distribution_graphs.png)
 ![Feature Importance](images_spotify_ml/feature_importance.png)
