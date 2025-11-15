@@ -169,3 +169,25 @@ TF–IDF reveals common emotional and thematic words in hit songs.
 ![ROC Curve](images_spotify_ml/roc_curve.png)
 ![Confusion Matrix](images_spotify_ml/confusion_matrix.png)
 ![Lyrics Wordcloud](images_spotify_ml/lyrics_wordcloud.png)
+```
+
+## 9. How to Run This Project
+
+### **Clone the repository**
+```bash
+git clone https://github.com/oskardiyali/spotify-hit-prediction-ml.git
+cd spotify-hit-prediction-ml
+```
+
+### Install dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### Launch Jupyter
+```bash
+jupyter notebook
+```
+
+Note: Raw datasets are not included due to size and licensing.
+You may use any similar Spotify dataset to reproduce the results. 
