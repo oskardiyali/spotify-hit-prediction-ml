@@ -7,9 +7,9 @@ This project analyzes what makes a song a **hit** by exploring **80,000+ Spotify
 
 ---
 
-## ⭐ 1. Project Overview
+## 1. Project Overview
 
-### 🎯 Goal  
+### Goal  
 Predict whether a song becomes a “hit” using:
 
 - Spotify audio features  
@@ -19,13 +19,13 @@ Predict whether a song becomes a “hit” using:
 
 A track is labeled a **hit** if its Spotify popularity score is **≥ 45**.
 
-### 💡 Why This Project Matters  
+### Why This Project Matters  
 This project blends **music**, **data science**, and **machine learning**, turning subjective “hit intuition” into quantifiable patterns.
 
 ---
 
 ## 📁 2. Repository Structure
-
+```
 spotify-hit-prediction-ml/
 │
 ├── 01_data_preparation.ipynb
@@ -46,7 +46,7 @@ spotify-hit-prediction-ml/
 └── data/
 └── README.md
 
-
+```
 
 ---
 
