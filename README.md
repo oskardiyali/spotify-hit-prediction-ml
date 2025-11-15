@@ -1,7 +1,7 @@
 # 🎵 What Makes a Song a Hit? — Spotify Hit Prediction Using Machine Learning
 
 **Aug 2025 – Sep 2025**  
-**Author:** *Oskar Diyali*
+**Author:** *Oskar Diyali and Logan Smith*
 
 This project analyzes what makes a song a **hit** by exploring **80,000+ Spotify tracks** using audio features, metadata, and lyrics. I built a full machine learning pipeline—from data cleaning to model evaluation—achieving **AUC > 0.86** and uncovering key traits such as a strong tempo cluster around **110–130 BPM**.
 
