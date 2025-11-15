@@ -31,7 +31,6 @@ spotify-hit-prediction-ml/
 ├── 01_lyrics_feature_engineering.ipynb
 ├── 02_model_training_and_evaluation.ipynb
 ├── songs_cleaned_ready.csv    // Main Dataset for Modeling
-├──
 │
 ├── project_presentation_slides.pdf
 ├── requirements.txt
