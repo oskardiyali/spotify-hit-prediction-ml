@@ -3,7 +3,7 @@
 **Aug 2025 – Sep 2025**  
 **Author:** *Oskar Diyali and Logan Smith*
 
-This project analyzes what makes a song a **hit** by exploring **80,000+ Spotify tracks** using audio features, metadata, and lyrics. I built a full machine learning pipeline—from data cleaning to model evaluation—achieving **AUC > 0.86** and uncovering key traits such as a strong tempo cluster around **110–130 BPM**.
+This project analyzes what makes a song a **hit** by exploring **80,000+ Spotify tracks** using audio features, metadata, and lyrics. I built a full machine learning pipeline—from data cleaning to model evaluation—achieving **AUC > 0.86** and uncovering key traits such as a strong tempo cluster around **120–135 BPM**.
 
 ---
 
@@ -129,7 +129,7 @@ Models tested:
 ## 🔍 6. Key Findings
 
 ### 1. Tempo matters  
-A strong hit cluster appears around **110–130 BPM**, especially near 120 BPM.
+A strong hit cluster appears around **120–135 BPM**, especially near 125 BPM.
 
 ### 2. Danceability & loudness predict hits  
 High-energy, louder songs are more likely to chart.
